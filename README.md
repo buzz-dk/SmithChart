@@ -6,7 +6,7 @@ Click on the chart to get suggestions for impedance matching
 <br>
 # Topics of interest:
 <br>
-* Antenna Impedance matching
-* SVG
-* Javascript
-* Complex math
+- Antenna Impedance matching
+- SVG
+- Javascript
+- Complex math
