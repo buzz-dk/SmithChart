@@ -1,7 +1,7 @@
 # Smith Chart
 An interactive Smith Chart in an e-book
 <br>
-Created with Calibre
+Created with Calibre. Best viewed on a PC using Calibre, with the viewer in continious mode.
 <br>
 Click on the chart to get suggestions for impedance matching
 <br>
@@ -11,3 +11,4 @@ Click on the chart to get suggestions for impedance matching
 - SVG
 - Javascript
 - Complex math
+- MathJax
